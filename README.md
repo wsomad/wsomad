@@ -1,9 +1,10 @@
-# Hi 👋 
-## I'm Muhammad Haikal
+# Hello World 👋 
+
+- I'm Muhammad Haikal
 
 A Full-Stack Developer from Malaysia 🚀.
 
-  - 🌱 I’m currently undergoing my internship as **Technology Intern**
+- 🌱 I’m currently undergoing my internship as **Technology Intern**
 - 🔭 I’m currently working on [OpenLearnHub.](https://github.com/wsomad/openlearnhub)
 
 # 🛠️ Programming Languages, Frameworks and Tools:
