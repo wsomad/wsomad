@@ -1,12 +1,3 @@
-## Hello World 👋 
-
-- 🧑 I'm Muhammad Haikal.
-- 💻 I'm a Full-Stack Developer from Malaysia.
-- 🌱 I'm currently undergoing my internship as **Technology Intern**
-- 🔭 I'm currently working on [OpenLearnHub.](https://github.com/wsomad/openlearnhub)
-
-## 💻 Programming Languages, Frameworks and Tools:
-
 <p align="left">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
