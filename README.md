@@ -5,8 +5,6 @@ A Full-Stack Developer from Malaysia 🚀.
 - 🌱 I’m currently learning **Full-Stack Development**
 - 🔭 I’m currently working on [OpenLearnHub.](https://github.com/your-username/task-management-app)
 
-#
-
 # 🛠️ Languages and Tools:
 
 ### **Programming Languages**
