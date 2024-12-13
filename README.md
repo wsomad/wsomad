@@ -1,13 +1,9 @@
 # Hi 👋 I'm Muhammad Haikal
 
-A passionate Software Developer from Malaysia 🚀.
+A Full-Stack Developer from Malaysia 🚀.
 
-- 🌱 I’m currently learning **Advanced Java and Docker**
-- 🔭 I’m currently working on [Task Management App](https://github.com/your-username/task-management-app)
-- 🤝 I’m looking to collaborate on **Java and Flutter projects**
-- 💬 Ask me about **Java, Spring Boot, and Docker**
-- 📫 How to reach me: haikal.email@example.com
-- ⚡ Fun fact: I started programming with Java in matriculation and fell in love with it ever since!
+- 🌱 I’m currently learning **Full-Stack Development**
+- 🔭 I’m currently working on [OpenLearnHub.](https://github.com/your-username/task-management-app)
 
 ---
 
@@ -48,15 +44,3 @@ A passionate Software Developer from Malaysia 🚀.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" alt="Podman" width="40" height="40" />
 </p>
-
----
-
-## 📊 GitHub Stats:
-![Muhammad Haikal's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 💡 Fun Fact:
-I’ve always loved experimenting with new technologies, and I aim to bridge the gap between creativity and technical excellence.
