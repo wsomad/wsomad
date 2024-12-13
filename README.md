@@ -7,13 +7,6 @@ A Full-Stack Developer from Malaysia 🚀.
 
 ---
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-haikal) 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:haikal.email@example.com)
-
----
-
 ### 🛠️ Languages and Tools:
 
 ### **Programming Languages**
