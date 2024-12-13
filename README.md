@@ -14,7 +14,7 @@ A Full-Stack Developer from Malaysia 🚀.
 
 ---
 
-## 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools:
 
 ### **Languages**
 <p align="left">
