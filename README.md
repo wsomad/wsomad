@@ -27,8 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" alt="Vercel" width="40" height="40" />
-</p>
--- >
+</p> -->
 
 # 💫 About Me:
 🔭 I'm currently working as a Technology Analyst at Deloitte Consulting SEA.<br>🤝 I'm open for any collaboration.
