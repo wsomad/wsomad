@@ -11,7 +11,12 @@
 <h2>Find me around the web 🌏:</h2>
 <ul>
   <li>See my portfolio at <a href="https://wsomad.github.io/me/">wsomad.github.io</a></li>
-  <li>Sharing updates on <a href="https://www.linkedin.com/in/haikalsamari/">LinkedIn</a></li>
+  <li>
+    Sharing updates on 
+    <a href="https://www.linkedin.com/in/haikalsamari/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </li>
 </ul>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://linkedin.com/in/muhammadhaikal)  
