@@ -10,15 +10,6 @@
 
 <h2>Find me around the web 🌏:</h2>
 <ul>
-  <li>See my portfolio at 
-    <a href="https://wsomad.github.io/me/">
-      <img src="https://img.icons8.com/ios-filled/24/000000/internet.png" height="18" width="18" alt="Portfolio Website" />
-    </a>
-  </li>
-  <li>
-    Sharing updates on 
-    <a href="https://www.linkedin.com/in/haikalsamari/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="24" width="24" alt="LinkedIn"/>
-    </a>
-  </li>
+  <li>See my portfolio at <a href="https://wsomad.github.io/me/">wsomad.github.io</a></li>
+  <li>Sharing updates on <a href="https://www.linkedin.com/in/haikalsamari/">LinkedIn</a></li>
 </ul>
