@@ -11,8 +11,10 @@
 -
 
 <h2>Find me around the web 🌏:</h2>
-- See my portfolio at [My Portfolio](https://wsomad.github.io/me/)
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/haikalsamari/)
+<ul>
+  <li>See my portfolio at <a href="https://wsomad.github.io/me/">My Portfolio</a></li>
+  <li>Sharing updates on <a href="https://www.linkedin.com/in/haikalsamari/">LinkedIn</a></li>
+</ul>
 
 
 
