@@ -14,8 +14,8 @@
   <li>
     Sharing updates on 
     <a href="https://www.linkedin.com/in/haikalsamari/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="24" width="24" alt="LinkedIn"/>
+</a>
   </li>
 </ul>
 
