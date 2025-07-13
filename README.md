@@ -12,7 +12,7 @@
 <ul>
   <li>See my portfolio at 
     <a href="https://wsomad.github.io/me/">
-      🌐
+      <img src="https://img.icons8.com/ios-filled/24/000000/internet.png" height="18" width="18" alt="Portfolio Website" />
     </a>
   </li>
   <li>
