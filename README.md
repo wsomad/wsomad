@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Haikal 👋🏽 🧑🏽‍💻</h1>
-
+#Hi, I'm Haikal
 <p>
   I'm a software engineer who enjoys building things that are hopefully useful — and sometimes just for fun (or completely useless, but hey, I learned something 😆). It all started back in 2020 after finishing 
   high school, when I proudly put together a basic HTML skeleton that barely qualified as a website. 
