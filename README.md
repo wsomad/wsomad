@@ -14,6 +14,9 @@
   <li>Sharing updates on <a href="https://www.linkedin.com/in/haikalsamari/">LinkedIn</a></li>
 </ul>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://linkedin.com/in/muhammadhaikal)  
+
+
 
 
 
