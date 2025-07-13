@@ -4,20 +4,19 @@
   I'm a software engineer who enjoys building things that are hopefully useful — and sometimes just for fun (or completely useless, but hey, I learned something 😆). It all started back in 2020 after finishing 
   high school, when I proudly put together a basic HTML skeleton that barely qualified as a website. 
   
-  Since then, I've been learning everything I can get my hands on, mostly through free resources and late-night Googling. These days, I find myself enjoying work with ReactTS, Spring Boot Java, and Flutter. That 
-  curiosity and interest has eventually helped me land my first job as a programmer at one of the Big Four companies in Malaysia.
+  Since then, I've been learning everything I can get my hands on, mostly through free resources and late-night Googling (ChatGPT wasn't a thing back then). These days, I find myself enjoying work with ReactTS, 
+  Spring Boot Java, and Flutter. That curiosity and interest has eventually helped me land my first job as a programmer at one of the Big Four companies in Malaysia.
 </p>
 
----
+-
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<h2>Find me around the web 🌏:</h2>
+<p>
+  - See my portfolio at [wsomad.github.io](https://wsomad.github.io/me/)
+  - Sharing updates on [LinkedIn](https://www.linkedin.com/in/haikalsamari/)
+</p>
+
+
 
 
 
