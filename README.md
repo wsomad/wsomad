@@ -12,7 +12,7 @@
 
 <h2>Find me around the web 🌏:</h2>
 <ul>
-  <li>See my portfolio at <a href="https://wsomad.github.io/me/">My Portfolio</a></li>
+  <li>See my portfolio at <a href="https://wsomad.github.io/me/">wsomad.github.io</a></li>
   <li>Sharing updates on <a href="https://www.linkedin.com/in/haikalsamari/">LinkedIn</a></li>
 </ul>
 
